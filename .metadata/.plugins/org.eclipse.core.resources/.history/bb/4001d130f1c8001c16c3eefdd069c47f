@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<HTML>
+<BODY>
+	<CENTER>
+		<a href="welcome">Click to call Servlet</a>
+		<FORM NAME=”Form1″ METHOD=”post”
+			ACTION=”http://localhost:8080/webhook-servlet/welcome”>
+			<B>Login ID</B> <INPUT TYPE=”text” NAME=”loginid” SIZE=”30″>
+			<P>
+				<B>Password</B> <INPUT TYPE=”password” NAME=”password” SIZE=”30″>
+			</P>
+			<P>
+				<INPUT TYPE=submit VALUE=”Submit”.>
+			</P>
+</BODY>
+
+</HTML>

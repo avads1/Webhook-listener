@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<HTML>
+<BODY>
+	<CENTER>
+		<a href="welcome">Click to call Servlet</a>
+		<FORM NAME=”Form1″ METHOD=”post”
+			ACTION=”https://ecomputernotes.com:8080/ServletGetExample”>
+
+			<B>Login ID</B> <INPUT TYPE=”text” NAME=”loginid” SIZE=”30″>
+
+			<P>
+
+				<B>Password</B> <INPUT TYPE=”password” NAME=”password” SIZE=”30″>
+
+			</P>
+
+			<P>
+
+				<INPUT TYPE=submit VALUE=”Submit”.>
+
+			</P>
+</BODY>
+
+</HTML>
